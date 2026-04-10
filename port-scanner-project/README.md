@@ -1,10 +1,10 @@
 # Custom Port Scanner with Service Detection
 
-## https://github.com/lekaNanda/Custom-Port-Scanner-with-Service-Detection.git
+## https://github.com/poojithareddyrk-jpg/port-scanner-project.git
 
 ## Team Members
-1. Leka N - SRN: PES2UG24AM082
-2.Poojitha P - SRN:PES2UG24AM112
+1.Poojitha P - SRN:PES2UG24AM112
+2. Leka N - SRN: PES2UG24AM082
 3.Nakshathira- SRN:PES2UG24AM096
 
 ## 📖 Abstract
