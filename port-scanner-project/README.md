@@ -1,6 +1,6 @@
 # Custom Port Scanner with Service Detection
 
-## https://github.com/poojithareddyrk-jpg/port-scanner-project.git
+## https://github.com/poojithareddyrk-jpg/port-scanner-project.git 
 
 ## Team Members
 1.Poojitha P - SRN:PES2UG24AM112
